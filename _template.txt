@@ -1,0 +1,11 @@
+Collect the following information Text:{{context}}:
+
+Job Title:
+
+Company:
+
+Location:
+
+About the Job: (Copy the exact text)
+
+Save it to a .json file to download
